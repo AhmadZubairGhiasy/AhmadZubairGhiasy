@@ -14,6 +14,84 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Ahmad Zubair Ahmadi
+
+🚀 **Full-Stack Web Developer | UI/UX Designer**
+
+I’m a passionate full-stack developer with a strong foundation in building modern, scalable, and user-centered web applications. With a background in UI/UX design, I combine clean code with intuitive design to create seamless digital experiences.
+
+---
+
+## 🧑‍💻 About Me
+
+* 💡 Full-stack developer specializing in **JavaScript, React, Node.js, and Express**
+* 🎨 Strong background in **UI/UX design, color theory, and typography**
+* 🔧 Experience building **RESTful APIs and dynamic web applications**
+* 📱 Interested in creating **responsive, accessible, and user-friendly interfaces**
+* 📚 Continuously learning and exploring new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+
+* HTML, CSS, JavaScript
+* React
+
+**Backend:**
+
+* Node.js
+* Express
+
+**Database:**
+
+* MongoDB / MySQL
+
+**Tools & Design:**
+
+* Figma
+* Adobe XD
+* Git & GitHub
+
+---
+
+## 📂 Projects
+
+Here are some of my featured projects:
+
+* 🔹 **Project Name 1** – Short description of what it does
+* 🔹 **Project Name 2** – Short description of what it does
+* 🔹 **Project Name 3** – Short description of what it does
+
+👉 *Check out my repositories for more!*
+
+---
+
+## 📈 GitHub Stats
+
+<!-- You can use tools like GitHub Readme Stats -->
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+
+* 🔗 LinkedIn: [Your LinkedIn Profile](#)
+* 🐦 Twitter/X: [Your Profile](#)
+* 🌍 Portfolio: [Your Website](#)
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy blending **design psychology with development** to build meaningful user experiences.
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
 
 
 ## 🌐 Socials:
