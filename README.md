@@ -81,8 +81,8 @@ Here are some of my featured projects:
 
 ## 🌐 Connect With Me
 
-* 🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/ahmad-zubair-ghiasy-959383391/)
-* 🌍 Portfolio: [[Your Website](https://azubairgs.vercel.app/)
+* 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ahmad-zubair-ghiasy-959383391/)
+* 🌍 Portfolio: [Your Website](https://azubairgs.vercel.app/)
 * 📧 Email: [ghiasyahmadzubair@gmail.com](mailto:your-email@example.com)
 
 ---
