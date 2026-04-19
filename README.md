@@ -71,11 +71,7 @@ Here are some of my featured projects:
 
 ---
 
-## 📈 GitHub Stats
 
-<!-- You can use tools like GitHub Readme Stats -->
-
-![Stats](https://azubairgs.vercel.app/)
 
 ---
 
