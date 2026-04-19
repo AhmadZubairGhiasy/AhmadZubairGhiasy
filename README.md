@@ -60,9 +60,9 @@ I’m a passionate full-stack developer with a strong foundation in building mod
 
 Here are some of my featured projects:
 
-* 🔹 **Project Name 1** – Short description of what it does
-* 🔹 **Project Name 2** – Short description of what it does
-* 🔹 **Project Name 3** – Short description of what it does
+* 🔹 **Employee Managment System** – Built in MERN Stack Tech
+* 🔹 **Job Applications platform** – Built in Django
+* 🔹 **Product Storage Database** – Built In PHP
 
 👉 *Check out my repositories for more!*
 
@@ -72,7 +72,7 @@ Here are some of my featured projects:
 
 <!-- You can use tools like GitHub Readme Stats -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Stats](https://azubairgs.vercel.app/)
 
 ---
 
