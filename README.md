@@ -39,6 +39,7 @@ I’m a passionate full-stack developer with a strong foundation in building mod
 * HTML, CSS, JavaScript
 * React.JS, Next.JS
 * ReactNative, Expo
+* Flutter
 
 **Backend:**
 
@@ -57,6 +58,10 @@ I’m a passionate full-stack developer with a strong foundation in building mod
 * Figma
 * Adobe XD
 * Git & GitHub
+* AWS(Amazon Web Service)
+* Google FireBase
+* Docker
+* Kubernety
 
 ---
 
