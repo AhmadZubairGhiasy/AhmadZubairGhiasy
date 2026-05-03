@@ -38,6 +38,7 @@ I’m a passionate full-stack developer with a strong foundation in building mod
 
 * HTML, CSS, JavaScript
 * React.JS, Next.JS
+* ReactNative, Expo
 
 **Backend:**
 
